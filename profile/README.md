@@ -6,21 +6,34 @@ Building AI-powered developer tools, SaaS products, and open-source software.
 
 ### API Monitor
 
-Production-grade API and website monitoring platform.
+Production-ready API and website monitoring platform.
 
-Features:
+Current Features:
 
+* Authentication
 * Uptime Monitoring
-* Response Time Analytics
-* Status Pages
-* Alerting
+* Analytics Dashboard
+* Alert System
+* Monitor Management
+* Worker-Based Monitoring
+
+Planned:
+
 * Team Workspaces
+* Public Status Pages
+* Stripe Billing
 
----
+### DevOS AI
 
-### NextGenAI Platform
+AI-powered CLI tool for understanding, navigating, and analyzing codebases.
 
-Unified platform for AI-powered developer productivity tools.
+### RepoChat AI
+
+Repository search and Q&A system powered by local LLMs.
+
+### MediaHub Downloader
+
+Automation toolkit for media and content workflows.
 
 ---
 
@@ -28,33 +41,64 @@ Unified platform for AI-powered developer productivity tools.
 
 * Artificial Intelligence
 * Developer Tools
-* SaaS Products
+* SaaS Platforms
 * Backend Systems
 * Cloud Infrastructure
 * Open Source Software
 
 ---
 
-## Open Source
+## Open Source Contributions
 
-We actively contribute to open-source projects including:
+We actively contribute to:
 
 * FOSSASIA
 * MDN Web Docs
+* First Contributions
 
 ---
 
-## Current Goals
+## Technology Stack
 
-* Launch API Monitor
-* Grow NextGenAI Labs
-* Build production-grade AI systems
-* Contribute to major open-source projects
+Backend:
+
+* Node.js
+* Express.js
+* PostgreSQL
+* Prisma
+* Redis
+
+Frontend:
+
+* React
+* Next.js
+* Tailwind CSS
+
+Infrastructure:
+
+* Docker
+* Linux
+* NGINX
+* GitHub Actions
+
+AI:
+
+* LLMs
+* RAG Systems
+* Vector Search
+* Agent Workflows
 
 ---
 
-### Philosophy
+## Current Roadmap
 
-Build useful products.
-Ship consistently.
-Improve continuously.
+### 2026
+
+* Launch API Monitor v2.x
+* Expand NextGenAI Platform
+* Publish Open Source Tools
+* Build Production AI Systems
+
+---
+
+Build useful products. Ship consistently. Improve continuously.

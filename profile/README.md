@@ -1,41 +1,41 @@
 # NextGenAI Labs
 
-Building AI-powered developer tools, SaaS products, and open-source software.
+Building AI-powered developer tools, SaaS platforms, and open-source software for
+developers and infrastructure teams. Everything here is **open, documented, and free to use**.
 
 ## Products
 
-### API Monitor
+| | Product | What it is |
+| --- | --- | --- |
+| **API Monitor** | Production-ready API and website monitoring — uptime, analytics dashboards, alerting, and worker-based checks. | Team workspaces, public status pages, and Stripe billing on the roadmap. |
+| **DevOS AI** | AI-powered CLI to understand, navigate, and analyze codebases. | Developer tooling, local-first. |
+| **RepoChat AI** | Repository search and Q&A powered by local LLMs. | Ask questions about any repo, answered offline. |
+| **MediaHub Downloader** | Automation toolkit for media and content workflows. | Batch captures and downloads. |
 
-Production-ready API and website monitoring platform.
+<!-- LIVE:START -->
 
-Current Features:
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 05:05 UTC`
 
-* Authentication
-* Uptime Monitoring
-* Analytics Dashboard
-* Alert System
-* Monitor Management
-* Worker-Based Monitoring
+![Repos](https://img.shields.io/badge/Public_repos-3-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-0-6c8cff?style=for-the-badge)
 
-Planned:
+**Open-source repos**
 
-* Team Workspaces
-* Public Status Pages
-* Stripe Billing
+| | Repo | Stars | Language | Description | Latest |
+| --- | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [nextjs-saas-starter](https://github.com/nextgenai-labs/nextjs-saas-starter) | 0 | `TypeScript` | Production-ready Next.js SaaS Starter Kit with Authentication, Prisma,… | docs: mark Stripe/Resend/testing as pla… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [uuid-generator-pro](https://github.com/nextgenai-labs/uuid-generator-pro) | 0 | `TypeScript` | A fast, modern, and customizable UUID Generator built with Next.js and… | chore: regenerate lockfile with pnpm 11… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [gitai](https://github.com/nextgenai-labs/gitai) | 0 | `JavaScript` | GitAI is an open-source CLI tool that analyzes Git changes and generate… | 0.3.1 |
 
-### DevOS AI
+**Language mix**
 
-AI-powered CLI tool for understanding, navigating, and analyzing codebases.
+```
+TypeScript         67%  ████████████████
+JavaScript         33%  ████████
+```
 
-### RepoChat AI
+_Refreshed every hour by [update-profile.yml](.github/workflows/update-profile.yml) — GitHub-native · no third party · covers public repos only._
 
-Repository search and Q&A system powered by local LLMs.
-
-### MediaHub Downloader
-
-Automation toolkit for media and content workflows.
-
----
+<!-- LIVE:END -->
 
 ## Areas of Focus
 
@@ -46,8 +46,6 @@ Automation toolkit for media and content workflows.
 * Cloud Infrastructure
 * Open Source Software
 
----
-
 ## Open Source Contributions
 
 We actively contribute to:
@@ -56,49 +54,13 @@ We actively contribute to:
 * MDN Web Docs
 * First Contributions
 
----
-
 ## Technology Stack
 
-Backend:
+**Backend** — Node.js, Express.js, PostgreSQL, Prisma, Redis
+**Frontend** — React, Next.js, Tailwind CSS
+**Infrastructure** — Docker, Linux
 
-* Node.js
-* Express.js
-* PostgreSQL
-* Prisma
-* Redis
+## Find us
 
-Frontend:
-
-* React
-* Next.js
-* Tailwind CSS
-
-Infrastructure:
-
-* Docker
-* Linux
-* NGINX
-* GitHub Actions
-
-AI:
-
-* LLMs
-* RAG Systems
-* Vector Search
-* Agent Workflows
-
----
-
-## Current Roadmap
-
-### 2026
-
-* Launch API Monitor v2.x
-* Expand NextGenAI Platform
-* Publish Open Source Tools
-* Build Production AI Systems
-
----
-
-Build useful products. Ship consistently. Improve continuously.
+* [nextgenai-labs](https://github.com/nextgenai-labs) · [dsk-dev-ai](https://github.com/dsk-dev-ai)
+* Live demos: [textrieve](https://textrieve.onrender.com) (open-source OCR)

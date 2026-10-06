@@ -14,7 +14,7 @@ developers and infrastructure teams. Everything here is **open, documented, and 
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-06 03:18 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-06 10:44 UTC`
 
 ![Repos](https://img.shields.io/badge/Public_repos-3-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-0-6c8cff?style=for-the-badge)
 
@@ -22,9 +22,9 @@ developers and infrastructure teams. Everything here is **open, documented, and 
 
 | | Repo | Stars | Language | Description | Latest |
 | --- | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [gitai](https://github.com/nextgenai-labs/gitai) | 0 | `JavaScript` | GitAI is an open-source CLI tool that analyzes Git changes and generate… | 0.3.1 |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [uuid-generator-pro](https://github.com/nextgenai-labs/uuid-generator-pro) | 0 | `TypeScript` | A fast, modern, and customizable UUID Generator built with Next.js and… | chore: regenerate lockfile with pnpm 11… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [nextjs-saas-starter](https://github.com/nextgenai-labs/nextjs-saas-starter) | 0 | `TypeScript` | Production-ready Next.js SaaS Starter Kit with Authentication, Prisma,… | docs: mark Stripe/Resend/testing as pla… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [gitai](https://github.com/nextgenai-labs/gitai) | 0 | `JavaScript` | GitAI is an open-source CLI tool that analyzes Git changes and generate… | 0.3.1 |
 
 **Language mix**
 
